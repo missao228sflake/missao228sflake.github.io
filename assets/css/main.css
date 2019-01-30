@@ -1404,7 +1404,7 @@ input, select, textarea {
 			}
 
 		video{
-			filter:opacity(5%);
+			filter:opacity(25%);
 		}
 		.video-container {
   position: absolute;
